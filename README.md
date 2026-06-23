@@ -29,10 +29,6 @@ sudo bash xliff-translator-installer.sh uninstall
 
 Download and run `xliff-translator-windows-setup.exe` from the [Releases](https://github.com/albertarranz/xliff-translator-bin/releases) page.
 
-## Building from Source
-
-This repository contains pre-built binaries. For the source code, see [XliffTranslator](https://github.com/albertarranz/XliffTranslator).
-
 ## License
 
 See [LICENSE](LICENSE) for details.
