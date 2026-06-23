@@ -1,0 +1,7 @@
+dist/xliff-translator-installer.sh filter=lfs diff=lfs merge=lfs -text
+publish/linux-x64/XliffTranslator filter=lfs diff=lfs merge=lfs -text
+publish/win-x64/*.exe filter=lfs diff=lfs merge=lfs -text
+publish/win-x64/*.pdb filter=lfs diff=lfs merge=lfs -text
+publish/linux-x64/*.pdb filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+dist/*.exe filter=lfs diff=lfs merge=lfs -text
